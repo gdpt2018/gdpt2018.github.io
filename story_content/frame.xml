@@ -11,7 +11,7 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
               <option name="title_text" value="Untitled1" />
             </options>
@@ -1543,15 +1543,19 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5V97POXWXwl" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.65COr7v62hL" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5V97POXWXwl.61Ik45H7ZkF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.65COr7v62hL.5dfGSumV5Ai" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy.mkv" image="story_content/6cZZdNdtdwF.png" title="Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy" />
+    </resources>
+  </resource_data>
   <transcript_data />
   <glossary_data />
 </bwFrame>
