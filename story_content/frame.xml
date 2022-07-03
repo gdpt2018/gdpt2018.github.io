@@ -1543,9 +1543,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.65COr7v62hL" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.673sTouzkDT" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.65COr7v62hL.5dfGSumV5Ai" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.673sTouzkDT.5fyNm4GWHRB" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1553,7 +1553,11 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy.mkv" image="story_content/6cZZdNdtdwF.png" title="Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy" />
+      <resource url="story_content/external_files/Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy.mkv" image="story_content/6SXFx5n8mTt.png" title="Friends-[Season03x01]-TheOnewiththePrincessLeiaFantasy" />
+      <resource url="story_content/external_files/Friends-[Season03x02]-TheOneWhereNoOnesReadyAudioCommentary.mkv" image="story_content/6Yon6HyLYMz.png" title="Friends-[Season03x02]-TheOneWhereNoOnesReadyAudioCommentary" />
+      <resource url="story_content/external_files/Friends-[Season03x04]-TheOnewiththeMetaphoricalTunnel.mkv" image="story_content/6Rvv9CIUeP6.png" title="Friends-[Season03x04]-TheOnewiththeMetaphoricalTunnel" />
+      <resource url="story_content/external_files/Friends-[Season03x11]-TheOneWhereChandlerCantRememberWhichSister.mkv" image="story_content/6PqZYUISi5b.png" title="Friends-[Season03x11]-TheOneWhereChandlerCantRememberWhichSister" />
+      <resource url="story_content/external_files/Friends-[Season03x08]-TheOnewiththeGiantPokingDevice.mkv" image="story_content/6KM5SFdMfRW.png" title="Friends-[Season03x08]-TheOnewiththeGiantPokingDevice" />
     </resources>
   </resource_data>
   <transcript_data />
